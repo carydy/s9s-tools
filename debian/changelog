@@ -1,3 +1,9 @@
+s9s-tools (1.7.20190117-release1) UNRELEASED; urgency=medium
+
+  * force option handling for stopCluster
+
+ -- David Kedves <kedazo@severalnines.com>  Thu, 17 Jan 2019 09:37:53 +0100
+
 s9s-tools (1.7.20190104-release1) UNRELEASED; urgency=medium
 
   * Just a new build with minor bugfixes

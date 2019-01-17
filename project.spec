@@ -40,6 +40,8 @@ rm -rf $RPM_BUILD_ROOT/usr/include/s9s
 %{_sysconfdir}/bash_completion.d/s9s_completion
 
 %changelog
+* Thu Jan 17 2019 David Kedves <kedazo@severalnines.com> 1.7.20190117
+- Force option handling for stopCluster
 * Fri Jan  4 2019 David Kedves <kedazo@severalnines.com> 1.7.20190104
 - Just a new build with minor bugfixes
 * Mon Dec 24 2018 David Kedves <kedazo@severalnines.com> 1.7.20181224
